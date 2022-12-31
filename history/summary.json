@@ -4,16 +4,16 @@
     "url": "https://mcskinhistory.com",
     "icon": "https://icons.duckduckgo.com/ip3/mcskinhistory.com.ico",
     "slug": "mc-skin-history",
-    "status": "up",
-    "uptime": "98.80%",
-    "uptimeDay": "98.77%",
+    "status": "down",
+    "uptime": "98.82%",
+    "uptimeDay": "98.76%",
     "uptimeWeek": "98.21%",
     "uptimeMonth": "98.79%",
-    "uptimeYear": "98.80%",
+    "uptimeYear": "98.82%",
     "time": 2391,
     "timeDay": 2144,
     "timeWeek": 3351,
-    "timeMonth": 2391,
+    "timeMonth": 2430,
     "timeYear": 2391,
     "dailyMinutesDown": {
       "2022-12-31": 18,
@@ -42,7 +42,7 @@
     "time": 498,
     "timeDay": 273,
     "timeWeek": 408,
-    "timeMonth": 498,
+    "timeMonth": 503,
     "timeYear": 498,
     "dailyMinutesDown": {}
   },
@@ -60,7 +60,7 @@
     "time": 606,
     "timeDay": 461,
     "timeWeek": 615,
-    "timeMonth": 606,
+    "timeMonth": 611,
     "timeYear": 606,
     "dailyMinutesDown": {}
   },
@@ -78,7 +78,7 @@
     "time": 545,
     "timeDay": 410,
     "timeWeek": 535,
-    "timeMonth": 545,
+    "timeMonth": 540,
     "timeYear": 545,
     "dailyMinutesDown": {}
   },
@@ -96,7 +96,7 @@
     "time": 170,
     "timeDay": 138,
     "timeWeek": 179,
-    "timeMonth": 170,
+    "timeMonth": 171,
     "timeYear": 170,
     "dailyMinutesDown": {}
   },
@@ -114,7 +114,7 @@
     "time": 364,
     "timeDay": 260,
     "timeWeek": 378,
-    "timeMonth": 364,
+    "timeMonth": 365,
     "timeYear": 364,
     "dailyMinutesDown": {}
   },
@@ -132,7 +132,7 @@
     "time": 385,
     "timeDay": 278,
     "timeWeek": 394,
-    "timeMonth": 385,
+    "timeMonth": 386,
     "timeYear": 385,
     "dailyMinutesDown": {}
   }
