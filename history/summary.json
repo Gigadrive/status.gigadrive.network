@@ -4,7 +4,7 @@
     "url": "https://mcskinhistory.com",
     "icon": "https://icons.duckduckgo.com/ip3/mcskinhistory.com.ico",
     "slug": "mc-skin-history",
-    "status": "up",
+    "status": "down",
     "uptime": "97.85%",
     "uptimeDay": "97.16%",
     "uptimeWeek": "98.04%",
@@ -16,6 +16,7 @@
     "timeMonth": 3383,
     "timeYear": 3005,
     "dailyMinutesDown": {
+      "2023-01-11": 0,
       "2023-01-10": 41,
       "2023-01-08": 21,
       "2023-01-05": 93,
