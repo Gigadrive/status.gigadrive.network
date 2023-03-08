@@ -68,19 +68,19 @@
     "url": "https://old.gigadrivegroup.com",
     "icon": "https://icons.duckduckgo.com/ip3/old.gigadrivegroup.com.ico",
     "slug": "gigadrive-accounts",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 550,
-    "timeDay": 406,
-    "timeWeek": 536,
-    "timeMonth": 515,
-    "timeYear": 550,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.81%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
+    "time": 551,
+    "timeDay": 524,
+    "timeWeek": 551,
+    "timeMonth": 519,
+    "timeYear": 551,
     "dailyMinutesDown": {
-      "2023-03-08": 6
+      "2023-03-08": 31
     }
   },
   {
@@ -88,19 +88,19 @@
     "url": "https://api.gigadrivegroup.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.gigadrivegroup.com.ico",
     "slug": "gigadrive-api-v1",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 507,
-    "timeDay": 428,
-    "timeWeek": 547,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.92%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
+    "time": 506,
+    "timeDay": 462,
+    "timeWeek": 540,
     "timeMonth": 488,
-    "timeYear": 507,
+    "timeYear": 506,
     "dailyMinutesDown": {
-      "2023-03-08": 5
+      "2023-03-08": 30
     }
   },
   {
@@ -108,19 +108,19 @@
     "url": "https://old.gigadrivegroup.com/api/v3/user",
     "icon": "https://icons.duckduckgo.com/ip3/old.gigadrivegroup.com.ico",
     "slug": "gigadrive-api-v3",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 169,
-    "timeDay": 190,
-    "timeWeek": 180,
-    "timeMonth": 166,
-    "timeYear": 169,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.02%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
+    "time": 170,
+    "timeDay": 195,
+    "timeWeek": 183,
+    "timeMonth": 167,
+    "timeYear": 170,
     "dailyMinutesDown": {
-      "2023-03-08": 3
+      "2023-03-08": 29
     }
   },
   {
@@ -128,19 +128,19 @@
     "url": "https://cdn.gigadrivegroup.com",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.gigadrivegroup.com.ico",
     "slug": "gigadrive-cdn-legacy",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.12%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
     "time": 354,
-    "timeDay": 421,
-    "timeWeek": 379,
-    "timeMonth": 345,
+    "timeDay": 403,
+    "timeWeek": 380,
+    "timeMonth": 346,
     "timeYear": 354,
     "dailyMinutesDown": {
-      "2023-03-08": 2
+      "2023-03-08": 27
     }
   },
   {
@@ -148,19 +148,19 @@
     "url": "https://crowdlate.net",
     "icon": "https://icons.duckduckgo.com/ip3/crowdlate.net.ico",
     "slug": "crowdlate",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 385,
-    "timeDay": 465,
-    "timeWeek": 430,
-    "timeMonth": 384,
-    "timeYear": 385,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.23%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
+    "time": 386,
+    "timeDay": 444,
+    "timeWeek": 429,
+    "timeMonth": 385,
+    "timeYear": 386,
     "dailyMinutesDown": {
-      "2023-03-08": 0
+      "2023-03-08": 26
     }
   }
 ]
