@@ -4,9 +4,9 @@
     "url": "https://mcskinhistory.com",
     "icon": "https://icons.duckduckgo.com/ip3/mcskinhistory.com.ico",
     "slug": "mc-skin-history",
-    "status": "up",
+    "status": "down",
     "uptime": "98.70%",
-    "uptimeDay": "97.34%",
+    "uptimeDay": "97.33%",
     "uptimeWeek": "97.97%",
     "uptimeMonth": "97.00%",
     "uptimeYear": "98.70%",
@@ -170,9 +170,9 @@
     "slug": "gigadrive-cdn-legacy",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 351,
     "timeDay": 338,
@@ -180,7 +180,6 @@
     "timeMonth": 319,
     "timeYear": 351,
     "dailyMinutesDown": {
-      "2023-07-31": 10,
       "2023-03-08": 27
     }
   },
