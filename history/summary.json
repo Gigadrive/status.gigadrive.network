@@ -6,17 +6,17 @@
     "slug": "mc-skin-history",
     "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "59.20%",
-    "uptimeWeek": "90.43%",
-    "uptimeMonth": "91.94%",
+    "uptimeDay": "59.75%",
+    "uptimeWeek": "90.51%",
+    "uptimeMonth": "91.96%",
     "uptimeYear": "99.22%",
     "time": 9481,
-    "timeDay": 17704,
+    "timeDay": 17840,
     "timeWeek": 14259,
     "timeMonth": 15407,
     "timeYear": 9481,
     "dailyMinutesDown": {
-      "2023-11-15": 588,
+      "2023-11-15": 580,
       "2023-11-14": 35,
       "2023-11-13": 22,
       "2023-11-11": 33,
@@ -50,7 +50,7 @@
       "2023-10-08": 69,
       "2023-10-06": 44,
       "2023-10-05": 34,
-      "2023-10-04": 70
+      "2023-10-04": 88
     }
   },
   {
