@@ -4,15 +4,15 @@
     "url": "https://mcskinhistory.com",
     "icon": "https://icons.duckduckgo.com/ip3/mcskinhistory.com.ico",
     "slug": "mc-skin-history",
-    "status": "up",
+    "status": "down",
     "uptime": "99.10%",
     "uptimeDay": "96.08%",
-    "uptimeWeek": "98.13%",
-    "uptimeMonth": "88.77%",
-    "uptimeYear": "99.06%",
+    "uptimeWeek": "98.15%",
+    "uptimeMonth": "88.86%",
+    "uptimeYear": "99.07%",
     "time": 10616,
     "timeDay": 17785,
-    "timeWeek": 13296,
+    "timeWeek": 12943,
     "timeMonth": 15910,
     "timeYear": 10757,
     "dailyMinutesDown": {
@@ -40,7 +40,7 @@
       "2023-11-19": 73,
       "2023-11-18": 64,
       "2023-11-17": 108,
-      "2023-11-16": 448
+      "2023-11-16": 412
     }
   },
   {
