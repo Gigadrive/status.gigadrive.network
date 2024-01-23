@@ -6,17 +6,17 @@
     "slug": "mc-skin-history",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "92.77%",
-    "uptimeWeek": "93.25%",
-    "uptimeMonth": "92.29%",
+    "uptimeDay": "94.35%",
+    "uptimeWeek": "93.34%",
+    "uptimeMonth": "92.30%",
     "uptimeYear": "99.25%",
     "time": 11419,
-    "timeDay": 4974,
-    "timeWeek": 13234,
+    "timeDay": 5079,
+    "timeWeek": 13378,
     "timeMonth": 14349,
-    "timeYear": 11879,
+    "timeYear": 11885,
     "dailyMinutesDown": {
-      "2024-01-22": 87,
+      "2024-01-22": 81,
       "2024-01-21": 185,
       "2024-01-20": 139,
       "2024-01-19": 44,
@@ -49,7 +49,7 @@
       "2023-12-07": 21,
       "2023-12-06": 81,
       "2023-12-05": 182,
-      "2023-12-04": 17
+      "2023-12-04": 45
     }
   },
   {
@@ -65,7 +65,7 @@
     "uptimeYear": "100.00%",
     "time": 370,
     "timeDay": 340,
-    "timeWeek": 348,
+    "timeWeek": 360,
     "timeMonth": 344,
     "timeYear": 358,
     "dailyMinutesDown": {
@@ -85,7 +85,7 @@
     "uptimeYear": "99.99%",
     "time": 675,
     "timeDay": 563,
-    "timeWeek": 594,
+    "timeWeek": 610,
     "timeMonth": 608,
     "timeYear": 690,
     "dailyMinutesDown": {
@@ -106,7 +106,7 @@
     "uptimeYear": "99.99%",
     "time": 526,
     "timeDay": 498,
-    "timeWeek": 539,
+    "timeWeek": 545,
     "timeMonth": 515,
     "timeYear": 527,
     "dailyMinutesDown": {
@@ -127,7 +127,7 @@
     "uptimeYear": "99.99%",
     "time": 230,
     "timeDay": 130,
-    "timeWeek": 180,
+    "timeWeek": 169,
     "timeMonth": 163,
     "timeYear": 239,
     "dailyMinutesDown": {
@@ -148,7 +148,7 @@
     "uptimeYear": "99.99%",
     "time": 350,
     "timeDay": 321,
-    "timeWeek": 330,
+    "timeWeek": 334,
     "timeMonth": 315,
     "timeYear": 348,
     "dailyMinutesDown": {
@@ -169,7 +169,7 @@
     "uptimeYear": "100.00%",
     "time": 429,
     "timeDay": 306,
-    "timeWeek": 385,
+    "timeWeek": 394,
     "timeMonth": 369,
     "timeYear": 435,
     "dailyMinutesDown": {
