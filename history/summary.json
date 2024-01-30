@@ -4,18 +4,19 @@
     "url": "https://mcskinhistory.com",
     "icon": "https://icons.duckduckgo.com/ip3/mcskinhistory.com.ico",
     "slug": "mc-skin-history",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "79.48%",
-    "uptimeWeek": "84.26%",
-    "uptimeMonth": "93.40%",
+    "uptimeDay": "80.69%",
+    "uptimeWeek": "84.60%",
+    "uptimeMonth": "93.44%",
     "uptimeYear": "99.45%",
     "time": 11497,
-    "timeDay": 11666,
-    "timeWeek": 14005,
-    "timeMonth": 14349,
+    "timeDay": 10441,
+    "timeWeek": 14239,
+    "timeMonth": 14336,
     "timeYear": 12074,
     "dailyMinutesDown": {
+      "2024-01-30": 0,
       "2024-01-29": 280,
       "2024-01-28": 192,
       "2024-01-27": 175,
@@ -33,7 +34,7 @@
       "2024-01-15": 411,
       "2024-01-13": 56,
       "2024-01-12": 162,
-      "2024-01-11": 38
+      "2024-01-11": 18
     }
   },
   {
@@ -48,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 369,
-    "timeDay": 476,
-    "timeWeek": 352,
-    "timeMonth": 343,
-    "timeYear": 358,
+    "timeDay": 310,
+    "timeWeek": 348,
+    "timeMonth": 345,
+    "timeYear": 357,
     "dailyMinutesDown": {
       "2023-04-27": 21
     }
@@ -68,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 674,
-    "timeDay": 672,
-    "timeWeek": 589,
-    "timeMonth": 594,
+    "timeDay": 528,
+    "timeWeek": 584,
+    "timeMonth": 599,
     "timeYear": 691,
     "dailyMinutesDown": {
       "2023-11-29": 31,
@@ -88,10 +89,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 527,
-    "timeDay": 633,
-    "timeWeek": 528,
-    "timeMonth": 519,
+    "time": 526,
+    "timeDay": 482,
+    "timeWeek": 526,
+    "timeMonth": 520,
     "timeYear": 527,
     "dailyMinutesDown": {
       "2023-11-29": 29,
@@ -110,10 +111,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 229,
-    "timeDay": 190,
+    "timeDay": 132,
     "timeWeek": 160,
     "timeMonth": 163,
-    "timeYear": 239,
+    "timeYear": 238,
     "dailyMinutesDown": {
       "2023-11-29": 27,
       "2023-03-08": 29
@@ -131,10 +132,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 350,
-    "timeDay": 410,
-    "timeWeek": 332,
-    "timeMonth": 320,
-    "timeYear": 348,
+    "timeDay": 302,
+    "timeWeek": 330,
+    "timeMonth": 321,
+    "timeYear": 347,
     "dailyMinutesDown": {
       "2023-11-29": 26,
       "2023-03-08": 27
@@ -152,8 +153,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 428,
-    "timeDay": 448,
-    "timeWeek": 377,
+    "timeDay": 314,
+    "timeWeek": 378,
     "timeMonth": 375,
     "timeYear": 434,
     "dailyMinutesDown": {
