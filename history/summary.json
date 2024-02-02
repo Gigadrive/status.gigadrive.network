@@ -6,17 +6,17 @@
     "slug": "mc-skin-history",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "84.42%",
-    "uptimeWeek": "86.94%",
-    "uptimeMonth": "93.98%",
+    "uptimeDay": "85.03%",
+    "uptimeWeek": "87.15%",
+    "uptimeMonth": "93.94%",
     "uptimeYear": "99.50%",
     "time": 11720,
     "timeDay": 11997,
-    "timeWeek": 14353,
+    "timeWeek": 14483,
     "timeMonth": 13777,
-    "timeYear": 12108,
+    "timeYear": 12114,
     "dailyMinutesDown": {
-      "2024-02-01": 224,
+      "2024-02-01": 215,
       "2024-01-31": 166,
       "2024-01-30": 143,
       "2024-01-29": 280,
@@ -31,7 +31,7 @@
       "2024-01-20": 139,
       "2024-01-19": 44,
       "2024-01-18": 37,
-      "2024-01-17": 68
+      "2024-01-17": 91
     }
   },
   {
@@ -69,7 +69,7 @@
     "timeDay": 549,
     "timeWeek": 617,
     "timeMonth": 594,
-    "timeYear": 691,
+    "timeYear": 692,
     "dailyMinutesDown": {
       "2023-11-29": 31,
       "2023-03-08": 31
@@ -90,7 +90,7 @@
     "timeDay": 527,
     "timeWeek": 570,
     "timeMonth": 523,
-    "timeYear": 528,
+    "timeYear": 529,
     "dailyMinutesDown": {
       "2023-11-29": 29,
       "2023-03-08": 30
@@ -132,7 +132,7 @@
     "timeDay": 235,
     "timeWeek": 344,
     "timeMonth": 322,
-    "timeYear": 347,
+    "timeYear": 348,
     "dailyMinutesDown": {
       "2023-11-29": 26,
       "2023-03-08": 27
