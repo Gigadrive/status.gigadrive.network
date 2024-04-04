@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mcskinhistory.com.ico",
     "slug": "mc-skin-history",
     "status": "down",
-    "uptime": "89.44%",
+    "uptime": "89.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "85.84%",
+    "uptimeYear": "85.56%",
     "time": 11711,
-    "timeDay": 71,
-    "timeWeek": 88,
-    "timeMonth": 80,
-    "timeYear": 12119,
+    "timeDay": 130,
+    "timeWeek": 96,
+    "timeMonth": 83,
+    "timeYear": 12114,
     "dailyMinutesDown": {
-      "2024-04-03": 20,
+      "2024-04-04": 20,
+      "2024-04-03": 1440,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
       "2024-03-31": 1440,
@@ -97,9 +98,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 367,
-    "timeDay": 338,
-    "timeWeek": 354,
-    "timeMonth": 346,
+    "timeDay": 333,
+    "timeWeek": 339,
+    "timeMonth": 342,
     "timeYear": 355,
     "dailyMinutesDown": {
       "2023-04-27": 21
@@ -117,9 +118,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 690,
-    "timeDay": 393,
-    "timeWeek": 572,
-    "timeMonth": 950,
+    "timeDay": 578,
+    "timeWeek": 564,
+    "timeMonth": 948,
     "timeYear": 737,
     "dailyMinutesDown": {
       "2023-11-29": 31
@@ -137,10 +138,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 529,
-    "timeDay": 520,
-    "timeWeek": 560,
-    "timeMonth": 530,
-    "timeYear": 539,
+    "timeDay": 424,
+    "timeWeek": 531,
+    "timeMonth": 525,
+    "timeYear": 538,
     "dailyMinutesDown": {
       "2023-11-29": 29
     }
@@ -156,10 +157,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 220,
-    "timeDay": 116,
-    "timeWeek": 147,
-    "timeMonth": 165,
+    "time": 221,
+    "timeDay": 291,
+    "timeWeek": 162,
+    "timeMonth": 167,
     "timeYear": 238,
     "dailyMinutesDown": {
       "2023-11-29": 27
@@ -177,9 +178,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 347,
-    "timeDay": 262,
-    "timeWeek": 314,
-    "timeMonth": 320,
+    "timeDay": 300,
+    "timeWeek": 306,
+    "timeMonth": 318,
     "timeYear": 346,
     "dailyMinutesDown": {
       "2023-11-29": 26
@@ -197,9 +198,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 422,
-    "timeDay": 370,
-    "timeWeek": 387,
-    "timeMonth": 378,
+    "timeDay": 417,
+    "timeWeek": 377,
+    "timeMonth": 375,
     "timeYear": 434,
     "dailyMinutesDown": {}
   }
