@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mcskinhistory.com.ico",
     "slug": "mc-skin-history",
     "status": "down",
-    "uptime": "86.78%",
+    "uptime": "86.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "81.73%",
-    "time": 11684,
-    "timeDay": 73,
-    "timeWeek": 121,
-    "timeMonth": 94,
-    "timeYear": 12102,
+    "uptimeYear": "81.45%",
+    "time": 11683,
+    "timeDay": 83,
+    "timeWeek": 95,
+    "timeMonth": 95,
+    "timeYear": 12107,
     "dailyMinutesDown": {
-      "2024-04-18": 20,
+      "2024-04-19": 20,
+      "2024-04-18": 1440,
       "2024-04-17": 1440,
       "2024-04-16": 1440,
       "2024-04-15": 1440,
@@ -112,10 +113,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 367,
-    "timeDay": 321,
-    "timeWeek": 371,
-    "timeMonth": 345,
-    "timeYear": 355,
+    "timeDay": 441,
+    "timeWeek": 385,
+    "timeMonth": 351,
+    "timeYear": 356,
     "dailyMinutesDown": {
       "2023-04-27": 21
     }
@@ -132,9 +133,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 696,
-    "timeDay": 493,
-    "timeWeek": 1162,
-    "timeMonth": 1060,
+    "timeDay": 604,
+    "timeWeek": 569,
+    "timeMonth": 1063,
     "timeYear": 749,
     "dailyMinutesDown": {
       "2023-11-29": 31
@@ -152,10 +153,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 529,
-    "timeDay": 523,
-    "timeWeek": 564,
-    "timeMonth": 518,
-    "timeYear": 541,
+    "timeDay": 588,
+    "timeWeek": 586,
+    "timeMonth": 521,
+    "timeYear": 542,
     "dailyMinutesDown": {
       "2023-11-29": 29
     }
@@ -171,10 +172,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 220,
-    "timeDay": 222,
-    "timeWeek": 169,
-    "timeMonth": 158,
+    "time": 221,
+    "timeDay": 349,
+    "timeWeek": 196,
+    "timeMonth": 163,
     "timeYear": 238,
     "dailyMinutesDown": {
       "2023-11-29": 27
@@ -192,10 +193,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 346,
-    "timeDay": 306,
-    "timeWeek": 341,
-    "timeMonth": 316,
-    "timeYear": 346,
+    "timeDay": 407,
+    "timeWeek": 357,
+    "timeMonth": 319,
+    "timeYear": 347,
     "dailyMinutesDown": {
       "2023-11-29": 26
     }
@@ -212,10 +213,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 421,
-    "timeDay": 379,
-    "timeWeek": 390,
-    "timeMonth": 370,
-    "timeYear": 434,
+    "timeDay": 434,
+    "timeWeek": 401,
+    "timeMonth": 374,
+    "timeYear": 435,
     "dailyMinutesDown": {}
   }
 ]
