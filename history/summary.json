@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mcskinhistory.com.ico",
     "slug": "mc-skin-history",
     "status": "down",
-    "uptime": "60.18%",
+    "uptime": "60.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "20.63%",
-    "time": 10169,
-    "timeDay": 145,
-    "timeWeek": 109,
-    "timeMonth": 115,
-    "timeYear": 9517,
+    "uptimeYear": "20.35%",
+    "time": 10165,
+    "timeDay": 135,
+    "timeWeek": 110,
+    "timeMonth": 116,
+    "timeYear": 9464,
     "dailyMinutesDown": {
-      "2024-11-27": 27,
+      "2024-11-28": 27,
+      "2024-11-27": 1440,
       "2024-11-26": 1440,
       "2024-11-25": 1440,
       "2024-11-24": 1440,
@@ -335,10 +336,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 386,
-    "timeDay": 343,
-    "timeWeek": 361,
-    "timeMonth": 369,
-    "timeYear": 393,
+    "timeDay": 554,
+    "timeWeek": 402,
+    "timeMonth": 373,
+    "timeYear": 394,
     "dailyMinutesDown": {}
   },
   {
@@ -353,13 +354,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 715,
-    "timeDay": 586,
-    "timeWeek": 665,
-    "timeMonth": 619,
-    "timeYear": 634,
-    "dailyMinutesDown": {
-      "2023-11-29": 31
-    }
+    "timeDay": 643,
+    "timeWeek": 686,
+    "timeMonth": 620,
+    "timeYear": 635,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Gigadrive API v1",
@@ -373,13 +372,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 570,
-    "timeDay": 550,
-    "timeWeek": 555,
-    "timeMonth": 578,
-    "timeYear": 570,
+    "timeDay": 657,
+    "timeWeek": 575,
+    "timeMonth": 567,
+    "timeYear": 571,
     "dailyMinutesDown": {
-      "2024-08-22": 41,
-      "2023-11-29": 29
+      "2024-08-22": 41
     }
   },
   {
@@ -394,13 +392,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 225,
-    "timeDay": 137,
-    "timeWeek": 228,
+    "timeDay": 196,
+    "timeWeek": 237,
     "timeMonth": 187,
     "timeYear": 174,
-    "dailyMinutesDown": {
-      "2023-11-29": 27
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Gigadrive CDN (Legacy)",
@@ -414,13 +410,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 385,
-    "timeDay": 269,
-    "timeWeek": 349,
-    "timeMonth": 352,
-    "timeYear": 394,
-    "dailyMinutesDown": {
-      "2023-11-29": 26
-    }
+    "timeDay": 420,
+    "timeWeek": 359,
+    "timeMonth": 353,
+    "timeYear": 395,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Crowdlate",
@@ -434,10 +428,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 459,
-    "timeDay": 355,
-    "timeWeek": 395,
-    "timeMonth": 396,
-    "timeYear": 442,
+    "timeDay": 473,
+    "timeWeek": 415,
+    "timeMonth": 397,
+    "timeYear": 443,
     "dailyMinutesDown": {}
   }
 ]
