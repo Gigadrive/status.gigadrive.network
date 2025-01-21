@@ -16,7 +16,7 @@
     "timeMonth": 104,
     "timeYear": 5563,
     "dailyMinutesDown": {
-      "2025-01-21": 1328,
+      "2025-01-21": 1352,
       "2025-01-20": 1440,
       "2025-01-19": 1440,
       "2025-01-18": 1440,
@@ -401,19 +401,19 @@
     "url": "https://old.gigadrivegroup.com",
     "icon": "https://icons.duckduckgo.com/ip3/old.gigadrivegroup.com.ico",
     "slug": "gigadrive-accounts",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.31%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 656,
-    "timeDay": 442,
-    "timeWeek": 517,
-    "timeMonth": 562,
+    "timeDay": 495,
+    "timeWeek": 526,
+    "timeMonth": 563,
     "timeYear": 631,
     "dailyMinutesDown": {
-      "2025-01-21": 0
+      "2025-01-21": 24
     }
   },
   {
@@ -421,19 +421,19 @@
     "url": "https://api.gigadrivegroup.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.gigadrivegroup.com.ico",
     "slug": "gigadrive-api-v1",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.31%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 568,
-    "timeDay": 420,
-    "timeWeek": 503,
-    "timeMonth": 519,
+    "timeDay": 438,
+    "timeWeek": 500,
+    "timeMonth": 517,
     "timeYear": 571,
     "dailyMinutesDown": {
-      "2025-01-21": 0,
+      "2025-01-21": 24,
       "2024-08-22": 41
     }
   },
@@ -442,19 +442,19 @@
     "url": "https://old.gigadrivegroup.com/api/v3/user",
     "icon": "https://icons.duckduckgo.com/ip3/old.gigadrivegroup.com.ico",
     "slug": "gigadrive-api-v3",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.31%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 222,
-    "timeDay": 137,
-    "timeWeek": 165,
-    "timeMonth": 169,
+    "timeDay": 133,
+    "timeWeek": 160,
+    "timeMonth": 168,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2025-01-21": 0
+      "2025-01-21": 24
     }
   },
   {
