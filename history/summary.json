@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mcskinhistory.com.ico",
     "slug": "mc-skin-history",
     "status": "down",
-    "uptime": "49.38%",
+    "uptime": "49.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 533,
-    "timeDay": 139,
-    "timeWeek": 113,
+    "time": 532,
+    "timeDay": 99,
+    "timeWeek": 116,
     "timeMonth": 123,
     "timeYear": 111,
     "dailyMinutesDown": {
-      "2025-05-05": 32,
+      "2025-05-06": 29,
+      "2025-05-05": 1440,
       "2025-05-04": 1440,
       "2025-05-03": 1440,
       "2025-05-02": 1440,
@@ -379,8 +380,7 @@
       "2024-05-10": 1440,
       "2024-05-09": 1440,
       "2024-05-08": 1440,
-      "2024-05-07": 1440,
-      "2024-05-06": 1440
+      "2024-05-07": 1440
     }
   },
   {
@@ -395,8 +395,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 391,
-    "timeDay": 530,
-    "timeWeek": 449,
+    "timeDay": 377,
+    "timeWeek": 455,
     "timeMonth": 432,
     "timeYear": 407,
     "dailyMinutesDown": {}
@@ -412,11 +412,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 625,
-    "timeDay": 1019,
-    "timeWeek": 740,
-    "timeMonth": 630,
-    "timeYear": 594,
+    "time": 626,
+    "timeDay": 975,
+    "timeWeek": 795,
+    "timeMonth": 640,
+    "timeYear": 595,
     "dailyMinutesDown": {
       "2025-01-21": 24
     }
@@ -433,9 +433,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 606,
-    "timeDay": 611,
-    "timeWeek": 606,
-    "timeMonth": 583,
+    "timeDay": 544,
+    "timeWeek": 602,
+    "timeMonth": 582,
     "timeYear": 630,
     "dailyMinutesDown": {
       "2025-01-21": 24,
@@ -454,8 +454,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 177,
-    "timeDay": 341,
-    "timeWeek": 234,
+    "timeDay": 216,
+    "timeWeek": 231,
     "timeMonth": 224,
     "timeYear": 181,
     "dailyMinutesDown": {
@@ -470,12 +470,12 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.64%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 430,
-    "timeDay": 466,
-    "timeWeek": 351,
+    "timeDay": 316,
+    "timeWeek": 382,
     "timeMonth": 357,
     "timeYear": 467,
     "dailyMinutesDown": {
@@ -495,10 +495,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 458,
-    "timeDay": 605,
-    "timeWeek": 545,
-    "timeMonth": 517,
-    "timeYear": 486,
+    "timeDay": 419,
+    "timeWeek": 543,
+    "timeMonth": 518,
+    "timeYear": 487,
     "dailyMinutesDown": {}
   }
 ]
