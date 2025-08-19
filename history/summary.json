@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mcskinhistory.com.ico",
     "slug": "mc-skin-history",
     "status": "down",
-    "uptime": "44.11%",
+    "uptime": "44.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 142,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2025-08-19": 30,
+      "2025-08-19": 272,
       "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
@@ -406,11 +406,11 @@
     "url": "https://old.gigadrivegroup.com",
     "icon": "https://icons.duckduckgo.com/ip3/old.gigadrivegroup.com.ico",
     "slug": "gigadrive-accounts",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 613,
     "timeDay": 569,
@@ -418,6 +418,7 @@
     "timeMonth": 651,
     "timeYear": 625,
     "dailyMinutesDown": {
+      "2025-08-19": 3,
       "2025-05-14": 81,
       "2025-01-21": 24
     }
@@ -449,10 +450,10 @@
     "url": "https://old.gigadrivegroup.com/api/v3/user",
     "icon": "https://icons.duckduckgo.com/ip3/old.gigadrivegroup.com.ico",
     "slug": "gigadrive-api-v3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 193,
@@ -461,6 +462,7 @@
     "timeMonth": 235,
     "timeYear": 201,
     "dailyMinutesDown": {
+      "2025-08-19": 1,
       "2025-05-14": 81,
       "2025-01-21": 24
     }
