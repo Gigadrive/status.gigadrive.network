@@ -16,7 +16,7 @@
     "timeMonth": 167,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2025-08-25": 1398,
+      "2025-08-25": 1414,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
@@ -388,19 +388,19 @@
     "url": "https://tx.mcskinhistory.net",
     "icon": "https://icons.duckduckgo.com/ip3/tx.mcskinhistory.net.ico",
     "slug": "mc-skin-history-textures",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 420,
-    "timeDay": 1395,
-    "timeWeek": 591,
-    "timeMonth": 439,
-    "timeYear": 432,
+    "time": 435,
+    "timeDay": 4806,
+    "timeWeek": 1545,
+    "timeMonth": 682,
+    "timeYear": 453,
     "dailyMinutesDown": {
-      "2025-08-25": 1
+      "2025-08-25": 17
     }
   },
   {
