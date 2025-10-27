@@ -16,7 +16,7 @@
     "timeMonth": 136,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2025-10-27": 276,
+      "2025-10-27": 289,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
@@ -496,19 +496,19 @@
     "url": "https://crowdlate.net",
     "icon": "https://icons.duckduckgo.com/ip3/crowdlate.net.ico",
     "slug": "crowdlate",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
-    "time": 480,
-    "timeDay": 460,
-    "timeWeek": 472,
-    "timeMonth": 513,
+    "time": 481,
+    "timeDay": 531,
+    "timeWeek": 488,
+    "timeMonth": 516,
     "timeYear": 511,
     "dailyMinutesDown": {
-      "2025-10-27": 0,
+      "2025-10-27": 12,
       "2025-05-14": 81
     }
   }
