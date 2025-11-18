@@ -1,7 +1,7 @@
 url: https://api.gigadrivegroup.com
-status: down
-code: 500
-responseTime: 120
-lastUpdated: 2025-11-18T15:57:23.647Z
+status: up
+code: 200
+responseTime: 577
+lastUpdated: 2025-11-18T16:27:56.798Z
 startTime: 2022-11-30T13:56:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
