@@ -1,7 +1,7 @@
 url: https://crowdlate.net
-status: up
-code: 200
-responseTime: 386
-lastUpdated: 2025-11-18T11:54:32.350Z
+status: down
+code: 500
+responseTime: 293
+lastUpdated: 2025-11-18T13:11:59.152Z
 startTime: 2022-11-30T13:56:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
