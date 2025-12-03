@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mcskinhistory.com.ico",
     "slug": "mc-skin-history",
     "status": "down",
-    "uptime": "39.85%",
+    "uptime": "39.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,7 @@
     "timeMonth": 162,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2025-12-03": 30,
+      "2025-12-03": 1293,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
@@ -388,9 +388,9 @@
     "url": "https://tx.mcskinhistory.net",
     "icon": "https://icons.duckduckgo.com/ip3/tx.mcskinhistory.net.ico",
     "slug": "mc-skin-history-textures",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.97%",
@@ -400,6 +400,7 @@
     "timeMonth": 437,
     "timeYear": 445,
     "dailyMinutesDown": {
+      "2025-12-03": 0,
       "2025-11-18": 154,
       "2025-08-25": 17
     }
